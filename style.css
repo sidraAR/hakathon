@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+body{
+background-image: url(background.jpg);
+background-position: center;
+background-size: cover;
+}
+h1{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+li{
+    font-weight: bold;
+}
+.col-6{
+    position: absolute;
+    right: 16px;
+    font-size: 18px;
+}
